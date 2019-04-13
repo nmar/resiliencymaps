@@ -1,7 +1,7 @@
 # Resiliency Maps project
 
-   Know your surroundings
-   Support your community
+    Know your surroundings
+    Support your community
 
 Fires. Floods. Earthquakes. Heatwaves. Hurricanes. Landslides.
 
